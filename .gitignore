@@ -6,6 +6,7 @@ Thumbs.db
 /_setup
 /_vs_out*
 /out
+/build
 
 # Python building and distribution
 /_python_build/
